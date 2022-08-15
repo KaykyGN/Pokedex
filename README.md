@@ -11,9 +11,9 @@ Simples Pokédex feita com uma API.
 
 ## Tecnologias Utilizadas
 
-[✔️] -- HTML 
-[✔️] -- CSS
-[✔️] -- JavaScript
+- [✔️] -- HTML 
+- [✔️] -- CSS
+- [✔️] -- JavaScript
 
 
 ## Autores
